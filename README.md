@@ -4,13 +4,13 @@ FINAL PROJECT SANBER CODE
 
 AnInfo merupakan apilkasi yang berfungsi untuk menampilkan informasi informasi terkait anime dalam kesempatan kali ini anime tersebut hanya terbatas pada musim summer 2020
 
-#Spesifikasi
+# Spesifikasi
 Tested with Redmi 7
 
-#API
+# API
 https://api.jikan.moe
 
-#Tool
+# Tool
 ReactNative (Expo)
 VScode
 Figma
